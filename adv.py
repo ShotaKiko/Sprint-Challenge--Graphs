@@ -5,6 +5,8 @@ from world import World
 import random
 from ast import literal_eval
 
+from util import Queue
+
 # Load world
 world = World()
 
